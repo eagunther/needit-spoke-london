@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"7c2d896c-a85d-425a-bf98-538f477a7778.calculated_date","label":"1➛Calculated date","reference_display":"Calculated date","type":"glide_date","base_type":"glide_date"},{"name":"d242e36c-c4ad-4dc4-9d41-bee5b0d5cc09.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-08 14:24:27</sys_created_on>
+        <sys_id>b6c7e270db632300c78a6a49489619f1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_110640_needit_sp">3c762e70db632300c78a6a494896195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">3c762e70db632300c78a6a494896195d</sys_scope>
+        <sys_update_name>sys_hub_flow_b6c7e270db632300c78a6a49489619f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-09 04:51:02</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=b6c7e270db632300c78a6a49489619f1"/>
+    <sys_variable_value action="delete_multiple" query="document_key=b6c7e270db632300c78a6a49489619f1"/>
+</record_update>
